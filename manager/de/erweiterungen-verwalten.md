@@ -64,7 +64,8 @@ Aus diesem Grund müssen Sie nach jeder Paket-Installation auf die Schaltfläche
 ## Pakete deinstallieren
 
 Wenn Sie eine Erweiterungen nicht mehr benötigen, klicken Sie in der Übersicht
-auf die Schaltfläche "Entfernen" und anschießend auf "Änderungen anwenden".
+auf den Pfeil neben der Schaltfläche "Aktualisieren", dann auf die darunter 
+angezeigte Schaltfläche "Entfernen" und anschießend auf "Änderungen anwenden".
 
 Es wird erneut ein Task im Hintergrund ausgeführt. Anschließend müssen Sie
 wieder das Installtool aufrufen und die Datenbank aktualisieren.
